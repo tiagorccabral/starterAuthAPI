@@ -1,24 +1,19 @@
-# README
+# Starter project em Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Objetivos
 
-Things you may want to cover:
+Criar um starter project bem estruturado, para facilitar projetos futuros que utilizem Rails API
 
-* Ruby version
+## Principais gemas
 
-* System dependencies
+- Devise-jwt (Autenticação)
+- CanCan (controle de permissões)
+- Rolify (gestão de diferentes tipos de usuários)
+- FastJSON (serialização de dados)
+- Rubocop e RSpec (qualidade do código)
 
-* Configuration
+# Informações gerais
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ - Rails 5.2.3
+ - Ruby 2.6.2
+ - Postgresql
