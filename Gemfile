@@ -33,6 +33,7 @@ gem 'devise-jwt'
 
 # permissions gems
 gem 'cancan'
+gem 'rolify'
 
 # api related gems
 gem 'fast_jsonapi'
